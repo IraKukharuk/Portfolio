@@ -9,4 +9,5 @@ Project
 Покращити програми лояльності та обслуговування клієнтів.
 Скоротити відтік клієнтів та мінімізувати повернення.
 
-Дашборд для інтерактивної взаємодії зі статистикою: https://public.tableau.com/app/profile/iryna.k8751/viz/ecommerce_customer_data_custom_ratios/Dashboard1
+Дашборд для інтерактивної взаємодії зі статистикою:
+https://public.tableau.com/app/profile/iryna.k8751/viz/ecommerce_customer_data_custom_ratios/Dashboard1
